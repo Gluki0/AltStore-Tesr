@@ -1,0 +1,26 @@
+{
+    "name": "PPSSPP",
+    "identifier": "org.ppsspp.source",
+    "apps": [
+      {
+        "beta": false,
+        "name": "PPSSPP",
+        "bundleIdentifier": "org.ppsspp.ppsspp",
+        "developerName": "PPSSPP",
+        "subtitle": "PSP emulator on iOS.",
+        "version": "v1.13.2",
+        "versionDate": "2022-11-23T22:40:00+03:00",
+        "versionDescription": "Test update",
+        "downloadURL": "https://p.xx.wtf/PPSSPP_v1.13.2-2022-g2e492bf33.ipa",
+        "localizedDescription": "PPSSPP can run your PSP games on your PC in full HD resolution, and play them on Android too. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.",
+        "iconURL": "http://ppsspp.org/img/ppsspp-icon.png",
+        "tintColor": "2929ff",
+        "size": 34152120,
+        "screenshotURLs": [
+          "http://ppsspp.org/img/screens/small/Ace_Combat_X2_Joint_Assault_-_Abbanon.jpg",
+          "http://ppsspp.org/img/screens/small/Armored_Core_Silent_Line_-_Abbanon.jpg",
+          "http://ppsspp.org/img/screens/small/Assassins_Creed_Bloodlines_-_A_Yuanda.jpg"
+        ]
+      }
+    ]
+  }
